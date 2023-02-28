@@ -1,2 +1,1 @@
-# saaco3_notes
-AWS Solutions Architect Associate C03 Personal Notes
+# AWS Solutions Architect Associate C03 Personal Notes
